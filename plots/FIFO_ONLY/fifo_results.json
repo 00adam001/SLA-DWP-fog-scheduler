@@ -1,0 +1,72 @@
+{
+  "20": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 49.53974895397489
+  },
+  "40": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 24.905183312262956
+  },
+  "60": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 16.544325239977415
+  },
+  "80": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 12.53931641853638
+  },
+  "100": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 9.92610010077259
+  },
+  "150": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 6.579681052748969
+  },
+  "200": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 4.9641248122809944
+  },
+  "300": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 3.2714166897698918
+  },
+  "400": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 2.491924319335487
+  },
+  "500": {
+    "deadline_miss_rate": 0,
+    "mean_latency": 0,
+    "p95_latency": 0,
+    "mean_queue_length": 0,
+    "admission_rate": 1.9535286862019534
+  }
+}

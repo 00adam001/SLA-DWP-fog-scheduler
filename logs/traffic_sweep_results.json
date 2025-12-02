@@ -1,0 +1,128 @@
+{
+  "low": {
+    "FIFO": {
+      "total_generated": 2373,
+      "total_admitted": 591,
+      "total_dropped": 1782,
+      "admission_rate_percent": 24.905183312262956,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "EMERGENCY_FIRST": {
+      "total_generated": 2373,
+      "total_admitted": 544,
+      "total_dropped": 1829,
+      "admission_rate_percent": 22.92456805731142,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "STATIC_PRIORITY": {
+      "total_generated": 2373,
+      "total_admitted": 544,
+      "total_dropped": 1829,
+      "admission_rate_percent": 22.92456805731142,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "SLA-DWP-Fog": {
+      "total_generated": 2373,
+      "total_admitted": 591,
+      "total_dropped": 1782,
+      "admission_rate_percent": 24.905183312262956,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    }
+  },
+  "medium": {
+    "FIFO": {
+      "total_generated": 8967,
+      "total_admitted": 590,
+      "total_dropped": 8377,
+      "admission_rate_percent": 6.579681052748969,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "EMERGENCY_FIRST": {
+      "total_generated": 8967,
+      "total_admitted": 546,
+      "total_dropped": 8421,
+      "admission_rate_percent": 6.0889929742388755,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "STATIC_PRIORITY": {
+      "total_generated": 8967,
+      "total_admitted": 546,
+      "total_dropped": 8421,
+      "admission_rate_percent": 6.0889929742388755,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "SLA-DWP-Fog": {
+      "total_generated": 8967,
+      "total_admitted": 590,
+      "total_dropped": 8377,
+      "admission_rate_percent": 6.579681052748969,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    }
+  },
+  "high": {
+    "FIFO": {
+      "total_generated": 23837,
+      "total_admitted": 594,
+      "total_dropped": 23243,
+      "admission_rate_percent": 2.491924319335487,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "EMERGENCY_FIRST": {
+      "total_generated": 23837,
+      "total_admitted": 543,
+      "total_dropped": 23294,
+      "admission_rate_percent": 2.2779712212107226,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "STATIC_PRIORITY": {
+      "total_generated": 23837,
+      "total_admitted": 543,
+      "total_dropped": 23294,
+      "admission_rate_percent": 2.2779712212107226,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    },
+    "SLA-DWP-Fog": {
+      "total_generated": 23837,
+      "total_admitted": 594,
+      "total_dropped": 23243,
+      "admission_rate_percent": 2.491924319335487,
+      "deadline_miss_rate": 0,
+      "mean_latency_ms": 0,
+      "p95_latency_ms": 0,
+      "mean_queue_length": 0
+    }
+  }
+}
