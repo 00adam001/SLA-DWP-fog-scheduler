@@ -513,8 +513,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [GitHub](https://github.com/yourusername)
-
+- **Shlok Kadakia** - [GitHub](https://github.com/skadakia01)
+  **Zarana Hareshbhai Jodhani** - [GitHub](https://github.com/zjodhani)
+  **Nishant Kashyap**  - [GitHub](https://github.com/00adam001)
 ---
 
 ## 🙏 Acknowledgments
@@ -528,8 +529,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: your.email@example.com
-- **GitHub Issues**: [https://github.com/yourusername/sla-dwp-fog/issues](https://github.com/yourusername/sla-dwp-fog/issues)
+- **Email**: nkashyap@depaul.edu
+- **GitHub Issues**: [https://github.com/yourusername/sla-dwp-fog/issues](https://github.com/00adam001/sla-dwp-fog/issues)
 - **Documentation**: [docs/](docs/)
 
 ---
