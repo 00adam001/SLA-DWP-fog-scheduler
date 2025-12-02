@@ -499,7 +499,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Email**: nkashyap@depaul.edu
-- **GitHub Issues**: (https://github.com/00adam001/sla-dwp-fog/issues)
+- **GitHub Issues**: [https://github.com/00adam001/sla-dwp-fog/issues]
 - **Documentation**: [docs/](docs/)
 
 ---
