@@ -514,8 +514,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **Shlok Kadakia** - [GitHub](https://github.com/skadakia01)
-  **Zarana Hareshbhai Jodhani** - [GitHub](https://github.com/zjodhani)
-  **Nishant Kashyap**  - [GitHub](https://github.com/00adam001)
+- **Zarana Hareshbhai Jodhani** - [GitHub](https://github.com/zjodhani)
+- **Nishant Kashyap**  - [GitHub](https://github.com/00adam001)
 ---
 
 ## 🙏 Acknowledgments
