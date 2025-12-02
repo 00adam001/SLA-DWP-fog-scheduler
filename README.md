@@ -351,37 +351,6 @@ config = SimulationConfig(
 
 ---
 
-## 📊 Visualization
-
-### Comparison Plots
-
-<table>
-<tr>
-<td><img src="plots/COMPARISON/fig1_deadline_miss.png" width="400"/></td>
-<td><img src="plots/COMPARISON/fig5_admission_rate.png" width="400"/></td>
-</tr>
-<tr>
-<td align="center"><b>Deadline Miss Rate</b><br/>SLA-DWP-Fog: 0% across all loads</td>
-<td align="center"><b>Admission Rate</b><br/>Controlled admission prevents violations</td>
-</tr>
-</table>
-
-### Extended Analysis
-
-```bash
-python generate_extended_plots.py
-```
-
-Generates 6 extended figures:
-- Queue length time series
-- Per-class latency distributions
-- Latency CDFs
-- SLA compliance tracking
-- Request type breakdown
-- Resource utilization
-
----
-
 ## 🏆 Results
 
 ### Key Findings
